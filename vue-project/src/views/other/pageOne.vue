@@ -1,9 +1,16 @@
 <template>
-  <div>page1</div>
+  <div>
+    <img src="../../assets/images/img1.jpg" alt="" />
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'PageOne'
-}
+  name: "PageOne",
+};
 </script>
+<style lang="less" scoped>
+img {
+  width: 100%;
+}
+</style>
