@@ -1,5 +1,6 @@
 <template>
   <div>
+    <span>商城</span>
     <img src="../../assets/images/img2.jpg" alt="" />
   </div>
 </template>
